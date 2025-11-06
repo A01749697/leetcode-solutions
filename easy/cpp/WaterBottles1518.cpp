@@ -19,6 +19,6 @@ public:
 
 int main() {
     Solution sol;
-    cout << sol.numWaterBottles(9, 3) << endl;  // ejemplo
+    cout << sol.numWaterBottles(9, 3) << endl;
     return 0;
 }
